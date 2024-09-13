@@ -14,24 +14,50 @@ Progressions
         - NOTE: Computers can see NULL and give information to user as a Try-Catch (CS30)
     - Final Case Studies "Booklet", purpose is sequence of images for website promotion answering who I am as a developer
         - "Where do I put the buttons", name separate images, upload to GitHub for reference and Website Hosting
-        - Splash Screen & Welcome with Name, Enter, Preferences (in CS20 to be saved as Write-Read File, DIVs as preference buttons to change formats),
+        - Splash Screen & Welcome with App Name, Music Playlist as Enter and AutoPlay Button, Preferences (in CS20 to be saved as Write-Read File, DIVs as preference buttons to change formats),
          Uses APIs in 20
         - AutoPlay Screen, one playList starts playing with minimalist interface (user defines minimalist and purpose of whitespace), 2 click to anything rule
-        - Play List Screen, Buttons to interact with playlist like Loop-Play-List (this button can be included on previous), drag and drop, refresh
-        - Single Song Screen, Buttons for single song, metadata information
-    - Remedial Case Study:
-        - AutoPlay Screen: Always on, MUTE & QUIT ( how to read a display, actually reading anything, then ID where important stuff is in "T",
-         like a seating plan in a classroom)
             - NOTE: lower half of "One Screen" as a teaching tool, activate lines to see symmetry (1/2, 1/4, etc if necessary)
             - 10 Seconds: Stop - Previous - Loop ONCE - Next
             - Middle of Song: Stop - Reverse (Previous is double click) - Pause - Forward - Loop ONCE - Next
             - Last 20%: Stop - Previous - Reverse - Replay - Loop ONCE - Next
-        - "Upper Half of "One Screen: my teaching screen, using images (easier not as valuable in learning)
+            - Always on, MUTE & QUIT ( how to read a display, actually reading anything, then ID where important stuff is in "T", 
+              like a seating plan in a classroom)
+            - "Upper Half of "One Screen: my teaching screen, using images (easier not as valuable in learning)
+        - Play List Screen, Buttons to interact with playlist like Loop-Play-List (this button can be included on previous), drag and drop, refresh
+        - Single Song Screen, Buttons for single song, metadata information
     - Final Case vs. Remedial: students must demonstrate design of use, are buttons always on, how is screen spaces active or not
     - Remedial Splash Screen: single Boolean of entire screen, active the WINDOW in WINDOWS for Key Pressing (not mouse-pressing), OS Level hack
     - Due Dates: the day I teach it is the day it is due and must be done for HW (will be checked online or in person), must send email if missed
 
+- [ ] Buliding Basic Prototype for functionality
+    - Add minim library
+    - Introduce Arrays for Music Songs Only, Array List Out of Bounds, Try-Catch, Index
+    - Loading Music
+    - size() only
+    - keyboard for music buttons only
+    - [ ] Case Study: algorithms of music button features
+- [ ] Separate Buttons to build
+    - Uses varaibles of DIVs
+- [ ] Buttons
+    - Stop: creates the symmetry of all buttons
+    - Play | AutoPlay
+    - Pause
+    - Fast Forward | includes Pause ? | Note: set time skip as seconds or percentage of song
+    - Fast Reverse 
+    - Next 
+    - Previous
+    - Loop, single song: once (1), infinite (sideways 8), set number of times (other number)
+    - Loop PlayList
+    - Shuffle (Cross with triangle ends)
+    - Mute (speakers only)
+    - Quit Button | Shape and Text | Sound Effect | "Are you Sure" Menu Reminder
+
+- Advanced Features of Basic Prototyping Build
+    - [ ] Music Load | Drag and Drop Feature
+    
 ...
+
 
 
 - [ ] Case Study: what do music buttons look like? Different Styles? Different Functions?
@@ -40,7 +66,7 @@ Progressions
     - Booleans change Day, Dark, and Night Modes ( advanced: preferences CANVAS, otherwise CONSOLE accessed)
     - Math formulae about geometry (screen and shapes)
     - Remedial: Download one "square" play button image for tint() hover-over, who struggles with formulae and variable-cascading, leads to passing parameters
-- [ ] Case Study: algorithms of music button features
+
 - [ ] Prototype: individual buttons on CANVAS and through CONSOLE, one sound effect and one song
 
 - [ ] Buttons
@@ -55,21 +81,8 @@ DIVs: paper folding on different sized papers with ratios, draw after me in poin
 - Introduce Primitive Variables: int v long, float v double, string v char
 - CAUTION: one song only
 - CAUTION: Single DIV only
-- [ ] Buttons
-   - Stop: creates the symmetry of all buttons
-   - Play | AutoPlay
-   - Pause
-   - Fast Forward | includes Pause ? | Note: set time skip as seconds or percentage of song
-   - Fast Reverse 
-   - Next 
-   - Previous
-   - Loop, single song: once (1), infinite (sideways 8), set number of times (other number)
-   - Loop PlayList
-   - Shuffle (Cross with triangle ends)
-   - Mute (speakers only)
-   - Quit Button | Shape and Text | Sound Effect | "Are you Sure" Menu Reminder
-- [ ] Music Load | Drag and Drop Feature
-   - Introduce Arrays for Music Songs Only, Array List Out of Bounds, Try-Catch, Index
+
+
 - [ ] Information
    - Display Song File, Name, Progess, Total Time, Other strings inside MetaData
    - Song Number in Play List
