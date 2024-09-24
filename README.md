@@ -36,9 +36,29 @@ Progressions
     - Loading Music
     - size() only
     - keyboard for music buttons only
-    - [ ] Case Study: algorithms of music button features
+    - [ ] Paper Folding Ratios
+        - two pieces of paper
+        - Estimate a dot in the center
+        - Paperfold the center: two 1/2 folds perpendicular (like two perpendicular diameters)
+        - did you make it
+        - Repeat the same paperfold and backfold
+        - Rip a 1/4 area, notice the width and height are 1/4 (A=lw)
+        - Put dots on both pieces of paper ... this is where the computer starts counting
+        - The "display" center is where the rect(X,Y) is
+        - How would this change if both squares looked like they were both centered on the paper
+        - What would I have to minus
+        - Note:
+            - In code appWidth and appHeight might be used for the general musicButtonWidth and musicButtonHeight
+            - musicButtonX&Y should use the smaller of the two dimensions for a square (subset of rectangles) optically in the center
+            - CAUTION: rectMode does allow for this introduces formulaic exercises
+            - Notice: the music button doesn't know how big it is, it has no numbers. It knows how big the display is
+            - Foreshawdowing: the computer will calculate how many buttons it needs and then calcualte the width-height
+
+- [ ] Case Study: algorithms of music button features
+
 - [ ] Separate Buttons to build
     - Uses varaibles of DIVs
+
 - [ ] Buttons
     - Stop: creates the symmetry of all buttons
     - Play | AutoPlay
@@ -57,8 +77,6 @@ Progressions
     - [ ] Music Load | Drag and Drop Feature
     
 ...
-
-
 
 - [ ] Case Study: what do music buttons look like? Different Styles? Different Functions?
     - Introduce DIVs as lines to view symmetry (1/2, 1/4, etc if necessary)
