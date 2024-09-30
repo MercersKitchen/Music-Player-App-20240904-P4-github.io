@@ -54,12 +54,28 @@ Progressions
             - Notice: the music button doesn't know how big it is, it has no numbers. It knows how big the display is
             - Foreshawdowing: the computer will calculate how many buttons it needs and then calcualte the width-height
 
-- [ ] Case Study: algorithms of music button features
+- Features of Basic Prototyping Build
+    - [ ] Repository Folder Strucuture and Pathway - Directory Organization
+    - [ ] Music Load | Drag and Drop Feature (Advanced, CS20)
+    - [ ] Introduce Key-variables for size() | width&height becoming INTs for appWidth & appHeight (key variables should not be used in manipulation)
+    - [ ] First DIV for basic muusic button, using debugger to ID strongly coded float variable (or double)
+    - [ ] Introduce Algorithm for Display Geometry being repeated in DIV
+    - [ ] Introduce Algorithm for Drawing Square in Rectangular DIV
+    - IF-Then between landsape-square | portrait (hardcoded)
+        - Smaller side
+        - Repeat for other side
+        - X&Y Variables from from DIV
+        - Width & Height come from smaller dimension
+        - Verify by visually checking
 
-- [ ] Separate Buttons to build
-    - Uses varaibles of DIVs
+- [ ] STOP Button: outline, fill, gray scale, colour (day, dark, & night mode), new Variable Boolean (small memeory between VOIDs)
+    - Code sections to Music App
+    - Introduce COLOR Algorithms using Global Variable Boolean
+    - Key Bind all COLOR Boolean Variables as 3 keys, then only one key with counter variable
+    - Introduce Truth Tables to explore Boolean Controls
+    - Introduce Mouse Press Algothrithm (listener and any time in draw(), finish draw, then continue draw)
 
-- [ ] Buttons
+- [ ] Buttons in Prototyping, exploring 2D Shapes and Features of 2D Shapes
     - Stop: creates the symmetry of all buttons
     - Play | AutoPlay
     - Pause
@@ -72,10 +88,21 @@ Progressions
     - Shuffle (Cross with triangle ends)
     - Mute (speakers only)
     - Quit Button | Shape and Text | Sound Effect | "Are you Sure" Menu Reminder
+ - [ ] Separate Buttons to build (Uses varaibles of DIVs)
 
-- Advanced Features of Basic Prototyping Build
-    - [ ] Music Load | Drag and Drop Feature
-    
+- [ ] Case Study: algorithms of music button features
+
+- [ ] Case Study: music player app, one screen or mulitple screens
+
+- [ ] Music App
+    - Display appWidth&Height
+    - Display full screen (displayWidth, displayHeight)
+    - Music Load
+    - DIVs of one-screen | multile screens (include all DIVs, visually verifiy, then use only varaibles)
+    - 
+
+
+
 ...
 
 - [ ] Case Study: what do music buttons look like? Different Styles? Different Functions?
