@@ -88,6 +88,7 @@ Progressions
     - Shuffle (Cross with triangle ends)
     - Mute (speakers only)
     - Quit Button | Shape and Text | Sound Effect | "Are you Sure" Menu Reminder
+ - [ ] See images for reference
  - [ ] Separate Buttons to build (Uses varaibles of DIVs)
 
 - [ ] Case Study: algorithms of music button features
