@@ -209,5 +209,9 @@ Students need to repetition to even learn this style of paper folding
 
 Visual students are repeating the Google Prorotyping video to visualize what they want to happen
 
+20241003 EC demosntrating how square button will effectively come towards the user, in her mind 
+- next is the 2D enlargement of the shape on hoverover 
+- all variable increase for "straight at you" effect, different variable change for different effects 
+
 ---
 
