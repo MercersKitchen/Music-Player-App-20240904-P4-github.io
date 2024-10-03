@@ -194,3 +194,20 @@ divide between the Bools, Mary and Her Husband as interpreted by the people afte
     - What is current state of missed HW, assessment, redo's, and make-up grades
     - How can parents help vs. confronting teachers
     - student is one who knows and has responsibility, send email, help son-daughter send email
+
+--- 
+
+Paper folding basic music buttons - incredible activity
+- takes two days
+- demonstrates padding and symmetry 
+- demonstrates paper folding to 1/4
+- abstract to any fraction or percent (100 folds in an axis)
+
+Students need to practice paper folding to know how to compare sides 
+
+Students need to repetition to even learn this style of paper folding 
+
+Visual students are repeating the Google Prorotyping video to visualize what they want to happen
+
+---
+
