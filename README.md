@@ -88,7 +88,13 @@ Progressions
     - Shuffle (Cross with triangle ends)
     - Mute (speakers only)
     - Quit Button | Shape and Text | Sound Effect | "Are you Sure" Menu Reminder
- - [ ] See images for reference
+ - [ ] See images for reference, based on 1/4 folds, very effective for students, all buttons within space for STOP, some buttons are student designed
+    - teach rect() for rectangle & square, ellipse() for inscribed circle, line() for diagonal lines
+    - teach 2D Shape Fill and Modifiers like stroke(), caps on lines, noStroke(), etc.
+    - teach hoverover: gray scale, colour ( day, dark, night modes )
+- [ ] Prototype will play song, button and key board short cut will add simple interaction
+    - CAUTION: not autoplay
+    - Only simple one song play at execution, then simple stop because file is at the end
  - [ ] Separate Buttons to build (Uses varaibles of DIVs)
 
 - [ ] Case Study: algorithms of music button features
